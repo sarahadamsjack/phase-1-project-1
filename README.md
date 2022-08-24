@@ -39,7 +39,7 @@ Our team diligently collected industry data from The Numbers and IMDb. The Numbe
 **Figure 1A: Worldwide ROI in Percentage and Film Genres**
 <img width="641" alt="Screen Shot 2022-08-24 at 4 56 24 PM" src="https://user-images.githubusercontent.com/103600964/186530880-a2bd15df-bff4-45ab-914c-ec9e26f035ea.png">
 
-**Figure 1B: Median Worldwide ROI and Top 5 Genres **
+**Figure 1B: Median Worldwide ROI and Top 5 Genres**
 <img width="697" alt="Screen Shot 2022-08-24 at 4 59 16 PM" src="https://user-images.githubusercontent.com/103600964/186531229-bcff6ba1-52de-4a19-acc1-78e70b16c1be.png">
 
 
@@ -51,16 +51,16 @@ Our team diligently collected industry data from The Numbers and IMDb. The Numbe
 
 In analyzing the median return on investment for film genres, we find that the genres with the most potential for maximum ROI are Animation, Adventure, SciFi, Mystery, and Comedy. Because of the robust sample size and our focus on the median measure we can discount the possibility of potential outliers influencing our data and confidently assert our findings.
 
-**Figure 2A: Domestic ROI in Percentage and Film Runtime in Minutes
+**Figure 2A: Domestic ROI in Percentage and Film Runtime in Minutes**
 <img width="685" alt="Screen Shot 2022-08-24 at 5 02 54 PM" src="https://user-images.githubusercontent.com/103600964/186531753-eae72bba-1281-46ee-8597-45004530c12f.png">
 
 
 
-**Figure 2B: Worldwide ROI in Percentage and Film Runtime in Minutes
+**Figure 2B: Worldwide ROI in Percentage and Film Runtime in Minutes**
 <img width="674" alt="Screen Shot 2022-08-24 at 5 00 53 PM" src="https://user-images.githubusercontent.com/103600964/186531638-4aedbedf-908b-4569-87b2-b1cb9f5b0c2f.png">
 
 
-**Analysis of Figures 2A and 2B******
+**Analysis of Figures 2A and 2B**
 ---
 
 
@@ -71,7 +71,7 @@ Our findings suggest that most films are between 80 - 125 minutes and have an av
 <img width="669" alt="Screen Shot 2022-08-24 at 5 04 17 PM" src="https://user-images.githubusercontent.com/103600964/186531907-4bd8887c-942b-4e15-9e18-d75de92c3166.png">
 
 
-**Figure 3B: Worldwide ROI in Percentage by Release Month **
+**Figure 3B: Worldwide ROI in Percentage by Release Month**
 <img width="648" alt="Screen Shot 2022-08-24 at 5 05 04 PM" src="https://user-images.githubusercontent.com/103600964/186532006-ea4c5f96-233b-440e-bdb6-2f9156c16fb9.png">
 
 
@@ -105,11 +105,17 @@ The second phase of this project would have the same team from the Logos Analyti
 4. Sarah Jack at sjack@uchicago.edu - Github Lead 
 
 **Repository Structure**
+
 ├── Data
+
 ├── images
+
 ├── gitignore
+
 ├── README.md
+
 ├── phase-1-main-project.ipynb
+
 └── Logos_Microsoft_Deck.pdf
 
 
