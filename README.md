@@ -34,7 +34,12 @@ Our team diligently collected industry data from The Numbers and IMDb. The Numbe
 ---
 
 
+**Analysis of Figures 1A and 1B**
+---
 
+
+
+In analyzing the median return on investment for film genres, we find that the genres with the most potential for maximum ROI are Animation, Adventure, SciFi, Mystery, and Comedy. Because of the robust sample size and our focus on the median measure we can discount the possibility of potential outliers influencing our data and confidently assert our findings.
 
 **Figure 1A: Worldwide ROI in Percentage and Film Genres**
 <img width="641" alt="Screen Shot 2022-08-24 at 4 56 24 PM" src="https://user-images.githubusercontent.com/103600964/186530880-a2bd15df-bff4-45ab-914c-ec9e26f035ea.png">
@@ -44,12 +49,13 @@ Our team diligently collected industry data from The Numbers and IMDb. The Numbe
 
 
 
-**Analysis of Figures 1A and 1B**
+**Analysis of Figures 2A and 2B**
 ---
 
 
 
-In analyzing the median return on investment for film genres, we find that the genres with the most potential for maximum ROI are Animation, Adventure, SciFi, Mystery, and Comedy. Because of the robust sample size and our focus on the median measure we can discount the possibility of potential outliers influencing our data and confidently assert our findings.
+Our findings suggest that most films are between 80 - 125 minutes and have an average runtime of 102 minutes. Domestic mean average ROI is about 98% compared to worldwide, which is around 270% in ROI. We recommend Microsoft Studios produce movies between 80 - 125 minutes of runtime.
+
 
 **Figure 2A: Domestic ROI in Percentage and Film Runtime in Minutes**
 <img width="685" alt="Screen Shot 2022-08-24 at 5 02 54 PM" src="https://user-images.githubusercontent.com/103600964/186531753-eae72bba-1281-46ee-8597-45004530c12f.png">
@@ -59,13 +65,12 @@ In analyzing the median return on investment for film genres, we find that the g
 **Figure 2B: Worldwide ROI in Percentage and Film Runtime in Minutes**
 <img width="674" alt="Screen Shot 2022-08-24 at 5 00 53 PM" src="https://user-images.githubusercontent.com/103600964/186531638-4aedbedf-908b-4569-87b2-b1cb9f5b0c2f.png">
 
-
-**Analysis of Figures 2A and 2B**
+**Analysis of Figures 3A and 3B**
 ---
 
 
 
-Our findings suggest that most films are between 80 - 125 minutes and have an average runtime of 102 minutes. Domestic mean average ROI is about 98% compared to worldwide, which is around 270% in ROI. We recommend Microsoft Studios produce movies between 80 - 125 minutes of runtime.
+Based on the analysis, the median domestic return on investment (ROI) is highest for movies released during June, July, and November relative to other months. Because domestic ROI only captures financial gains and losses within the film’s country of origin, worldwide ROI paints a clearer picture. Worldwide ROI includes both international and domestic ROI. Worldwide ROI displays that films released in January, June, July, and November see the largest relative return on investment. Future analysis may examine why these months see sizable returns on investment in contrast to other times during the calendar year. Possible explanations may include the release of Summer blockbusters, annual award seasons, or holidays.
 
 **Figure 3A: Domestic ROI in Perecentage by Release Month** 
 <img width="669" alt="Screen Shot 2022-08-24 at 5 04 17 PM" src="https://user-images.githubusercontent.com/103600964/186531907-4bd8887c-942b-4e15-9e18-d75de92c3166.png">
@@ -75,12 +80,6 @@ Our findings suggest that most films are between 80 - 125 minutes and have an av
 <img width="648" alt="Screen Shot 2022-08-24 at 5 05 04 PM" src="https://user-images.githubusercontent.com/103600964/186532006-ea4c5f96-233b-440e-bdb6-2f9156c16fb9.png">
 
 
-**Analysis of Figures 3A and 3B**
----
-
-
-
-Based on the analysis, the median domestic return on investment (ROI) is highest for movies released during June, July, and November relative to other months. Because domestic ROI only captures financial gains and losses within the film’s country of origin, worldwide ROI paints a clearer picture. Worldwide ROI includes both international and domestic ROI. Worldwide ROI displays that films released in January, June, July, and November see the largest relative return on investment. Future analysis may examine why these months see sizable returns on investment in contrast to other times during the calendar year. Possible explanations may include the release of Summer blockbusters, annual award seasons, or holidays.
 
 
 **Conclusions**
@@ -98,7 +97,10 @@ Logos Analytics Group has compiled three suggestions for Microsoft's forthcoming
 
 The second phase of this project would have the same team from the Logos Analytics Group examine why these genres, run times, and release months amass the best ROIs both domestically and internationally. With input from the client, the team could also analyze which actors, writers, and storylines fit best within the parameters discussed above. 
 
+---
 **For More Information**
+
+
 [Review the presentation here](https://docs.google.com/presentation/d/1EdJ3PS14Ia8pXH1d2gKlQGA4EqRrXHlcXPh2rmw6UDc/edit?usp=sharing) or contact the following members of Logos:
 1. Benito (Ben) Ywani at bjim006@gmail.com - Tech Lead
 3. Brendan Bruno at btbruno20@gmail.com - Presentation Lead
