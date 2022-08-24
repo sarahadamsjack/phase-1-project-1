@@ -1,5 +1,5 @@
 # **Business Recommendations for Microsoft:**
-Presented by Sarah Jack, Ben Ywani and, Brendan Bruno in associaion with the Flatiron Consulting Group
+Presented by Sarah Jack, Ben Ywani and, Brendan Bruno in associaion with the Logos Analytics Group.
 
 **Overview**
 The following project displays our expert business reccomendations for Microsoft's forthcoming Movie Studio. Our analysis was shaped by the indutrail film making process: pre-production, production and, post-production. Our first analysis concerns the pre-production phase, which examines what genres of films Microsoft should craft. The second analysis is grounded in the production phase and gives concrete suggestions about how long the films should run for. Finally, the third analysis regards the post-production stage which proposes the most successful release month for films in the calendar year. [By utilizing industry data from The Numbers](https://www.the-numbers.com/ "The Numbers") [and the Internet Movie Database](https://www.imdb.com/ "the Internet Movie Database") (IMDB) we find that ..... INNSERT CONCLUSSIONS HERE. 
