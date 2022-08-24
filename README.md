@@ -1,3 +1,5 @@
+![Logos-Analytics](https://user-images.githubusercontent.com/85582924/186478411-b44c1e13-503d-44cf-b1f4-285a09951b76.jpeg)
+
 # **Business Recommendations for Microsoft:**
 Presented by Sarah Jack, Ben Ywani and, Brendan Bruno in associaion with the Logos Analytics Group.
 
