@@ -112,11 +112,11 @@ The second phase of this project would have the same team from the Logos Analyti
 
 ├── gitignore
 
+├── Logos_Microsoft_Deck.pdf
+
 ├── README.md
 
-├── phase-1-main-project.ipynb
-
-└── Logos_Microsoft_Deck.pdf
+└── phase-1-main-project.ipynb
 
 
 
